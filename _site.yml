@@ -13,10 +13,10 @@ navbar:
 
   right:
     - icon: fa-envelope
-      href: "mailto:YOUR_EMAIL@u.northwestern.edu"
+      href: "kaytlinharrison2030@u.northwestern.edu"
       title: "Email me"
     - icon: fa-linkedin
-      href: "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
+      href: "https://www.linkedin.com/in/katie-harrison-a06537241/"
       title: "LinkedIn"
 
 output:
