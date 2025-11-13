@@ -1,23 +1,24 @@
-name: "Katie-harrison"
+name: "kaytlin-site"
 output_dir: "."
+
 navbar:
   title: "Katie Harrison"
   left:
     - text: "About Me"
       href: index.html
-#     - text: "Research"
-#       href: research.html
     - text: "Google Scholar"
-      href: https://scholar.google.com/citations?user=t_hOWIsAAAAJ&hl=en
-# #    - text: "Visualizations"
-# #      href: visualizations.html
+      href: "https://scholar.google.com/citations?user=t_hOWIsAAAAJ&hl=en"
     - text: "Resume"
-      href: Kaytlin_Harrison_Resume.pdf
-#   right: 
-#     - icon: fa-envelope fa-lg
-#       href: mailto:<emileigh.harrison@austin.utexas.edu>
-#     - icon: fa-twitter fa-lg
-#       href: https://twitter.com/emileigharrison
+      href: "Kaytlin_Harrison_Resume.pdf"
+
+  right:
+    - icon: fa-envelope
+      href: "mailto:YOUR_EMAIL@u.northwestern.edu"
+      title: "Email me"
+    - icon: fa-linkedin
+      href: "https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/"
+      title: "LinkedIn"
+
 output:
   html_document:
     theme: paper
