@@ -12,7 +12,7 @@ navbar:
       href: "Kaytlin_Harrison_Resume.pdf"
 
   right:
-    - text: "Google Scholar"
+    - text: fa-google-scholar
       href: "https://scholar.google.com/citations?user=t_hOWIsAAAAJ&hl=en"
     - icon: fa-envelope
       href: "kaytlinharrison2030@u.northwestern.edu"
