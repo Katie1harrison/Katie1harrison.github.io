@@ -5,6 +5,10 @@ output: html_document
 
 # Welcome
 
+
+<embed src="ArgonneSciencePoster.pdf" width="100%" height="800px" type="application/pdf">
+
+
 Hello!
 #add Argonne poster
 #add Link to undergraduate paper

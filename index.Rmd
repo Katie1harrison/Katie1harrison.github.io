@@ -1,5 +1,5 @@
 ---
-title: "Kaytlin Harrison"
+title: "Katie Harrison"
 output: html_document
 ---
 
