@@ -1,10 +1,6 @@
 name: "kaytlin-site"
 output_dir: "."
 
-output:
-  html_document:
-    css: styles.css
-    
 navbar:
   title: "Katie Harrison"
   left:
@@ -25,3 +21,6 @@ navbar:
       href: "https://www.linkedin.com/in/katie-harrison-a06537241/"
       title: "LinkedIn"
 
+output:
+  html_document:
+    css: styles.css
