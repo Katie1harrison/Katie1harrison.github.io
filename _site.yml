@@ -1,5 +1,7 @@
 name: "kaytlin-site"
-output_dir: "."
+output_dir:
+  html_document:
+    css: styles.css
 
 navbar:
   title: "Katie Harrison"
