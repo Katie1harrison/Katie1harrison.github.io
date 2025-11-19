@@ -12,7 +12,7 @@ navbar:
       href: "Kaytlin_Harrison_Resume.pdf"
 
   right:
-    - icon: fa-google
+    - icon: fa-graduation-cap
       href: "https://scholar.google.com/citations?user=t_hOWIsAAAAJ&hl=en"
       title: "Google Scholar"
     - icon: fa-envelope
