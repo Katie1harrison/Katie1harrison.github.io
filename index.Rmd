@@ -9,7 +9,8 @@ output: html_document
 
 Hello!
 
-I’m a first-year Computer Science PhD student at Northwestern University, working with Professor Kate Smith and the QuantA group. My research focuses on improving the quantum software stack and making quantum computing more reliable, efficient, and scalable. My work spans compiler design and system-level optimization.
+I’m a first-year Computer Science PhD st
+udent at Northwestern University, working with Professor Kate Smith and the QuantA group. My research focuses on improving the quantum software stack and making quantum computing more reliable, efficient, and scalable. My work spans compiler design and system-level optimization.
 
 I’m interested in the physics that shapes real quantum systems and draw from my physics and math background by using hardware-level intuition to guide the design of software, compilers, and system tools that actively account for the noisy factors limiting today’s quantum devices.
 
