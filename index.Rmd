@@ -5,7 +5,7 @@ output: html_document
 
 # Welcome
 
-<img src="images/profile.jpg" style="float: right; width: 200px; border-radius: 10px; margin-left: 20px;" />
+<img src="images/profile.jpg" style="float: right; width: 300px; border-radius: 10px; margin-left: 20px;" />
 
 Hello!
 
