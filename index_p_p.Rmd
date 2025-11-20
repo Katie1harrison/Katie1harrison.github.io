@@ -1,24 +1,81 @@
 ---
-title: "index_p_p"
+title: "Research"
 output: html_document
 ---
 
-# Welcome
+<style>
+  .two-columns {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .column {
+    flex: 50%;
+    padding: 10px;
+  }
+  .column img {
+    width: 100%;
+    height: auto;
+  }
+</style>
 
-## Argonne Science Poster (2024)
+<br><br>
 
-### Abstract
+# Publications
+<hr>
 
-Quantum computing holds great promise for addressing practical challenges. However,current quantum devices suffer from noisy quantum gates, which degrade the fidelity of quantum circuits. As a result, optimizing quantum circuits is essential for achieving useful results. In this paper, we explore the combination of two frameworks designed to optimize quantum circuits: QuCLEAR and Dynamic ADAPT ADAPT-QAOA. First, we provide an overview of both frameworks, detailing their functions, key differences, and the individual benefits of each. Second, we present a mathematical proof that combining these two methods results in a more optimized circuit, with the order of application being inconsequential. Our empirical results for a 5-node example show that QuCLEAR reduces the CNOT gates by 43% and the RZ gates by 37.5%, while Dynamic ADAPT ADAPT-QAOA achieves reductions of 36% and 39%, respectively. When combined, these methods reduce the CNOT gates by 68% and the RZ gates by 60%. Third, we compare the performance of standard QAOA with each approach individually and in tandem. Finally, we conclude with a discussion on scalability, interpretation of the results, and potential future work.
+### “Collective neutrino oscillations on a quantum computer with hybrid quantum-classical algorithm”
 
-<!-- Page 1 -->
-![Argonne Science Poster Page 1](ArgonneSciencePoster_page1.jpg){ width=600px }
+##### *Second author with <a href="https://www.poojasiwach.com/">Prof. Pooja Siwach</a> and <a href="https://www.physics.wisc.edu/directory/balantekin-a-b/">Prof. A. B. Balantekin</a>*
+
+##### Abstract  
+*We simulate the time evolution of collective neutrino oscillations in two-flavor settings on a quantum computer. We explore the generalization of the Trotter–Suzuki approximation to time-dependent Hamiltonian dynamics. The trotterization steps are further optimized using the Cartan decomposition of two-qubit unitary gates \(U \in SU(4)\) into the minimum number of controlled-NOT (CNOT) gates, making the algorithm more resilient to hardware noise. A more efficient hybrid quantum–classical algorithm is also explored to solve the problem on noisy intermediate-scale quantum (NISQ) devices.*
+
+<br>
+<hr>
+<br>
+
+# Presentations
+
+---
+
+##### Argonne Science Poster (2024) Abstract 
+
+Quantum computing holds great promise for addressing practical challenges. However, current quantum devices suffer from noisy quantum gates, which degrade circuit fidelity. As a result, optimizing quantum circuits is essential for achieving useful results.  
+This project explores the combination of two circuit optimization frameworks — **QuCLEAR** and **Dynamic ADAPT-QAOA** — demonstrates their individual benefits, mathematically proves that their combination yields more optimized circuits, and evaluates performance improvements on a 5-node example problem.
+
+<!-- Poster images -->
+![Argonne Science Poster – Page 1](ArgonneSciencePoster_page1.jpg){ width=600px }
+
+---
+
+### OQI Presentation
+
+_Coming soon:_  
+- Add a photo of the slide presentation  
+- Add link to `.pptx`  
+
+---
+
+### Tips for Success  
+
+Click below to open the full presentation:
+
+- [Tips for Success — BNL Presentation (PDF)](BNL Presentation 07.09.25 (1).pdf)
 
 
+<!--
+![BNL Presentation Preview](BNL_Preview.jpg){ width=600px }
+-->
+
+---
+
+# Other Written Works  
+
+### NSF GRFP — Graduate Research Plan Statement
+
+Recipient of the **NSF Graduate Research Fellowship (GRFP), 2025**.
+
+### Research Plan PDF  
+- [GRFP Research Proposal (PDF)](Kaytlin Harrison GRFP Research Proposal.pdf)
 
 
-
-Hello!
-#add Argonne poster
-#add Link to undergraduate paper
-#add OQI presentation link to pptx and maybe a place for a few slides
