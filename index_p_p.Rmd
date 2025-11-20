@@ -7,31 +7,12 @@ output: html_document
 
 ## Argonne Science Poster (2024)
 
-<div class="row">
+<!-- Page 1 -->
+![Argonne Science Poster Page 1](ArgonneSciencePoster_page1.jpg){ width=600px }
 
-  <div class="col-sm-6">
-    <a href="ArgonneSciencePoster.pdf" target="_blank">
-      <img src="ArgonneSciencePoster_page1.jpg"
-           class="img-responsive img-thumbnail"
-           alt="Argonne Science Poster Page 1">
-    </a>
-    <p class="text-center" style="margin-top:8px;">
-      <strong>Poster Page 1</strong>
-    </p>
-  </div>
+<!-- Page 2 -->
+![Argonne Science Poster Page 2](ArgonneSciencePoster_page2.jpg){ width=600px }
 
-  <div class="col-sm-6">
-    <a href="ArgonneSciencePoster.pdf" target="_blank">
-      <img src="ArgonneSciencePoster_page2.jpg"
-           class="img-responsive img-thumbnail"
-           alt="Argonne Science Poster Page 2">
-    </a>
-    <p class="text-center" style="margin-top:8px;">
-      <strong>Poster Page 2</strong>
-    </p>
-  </div>
-
-</div>
 
 
 
