@@ -40,27 +40,17 @@ output: html_document
 
 ##### Argonne Science Poster (2024) Abstract 
 
-Quantum computing holds great promise for addressing practical challenges. However, current quantum devices suffer from noisy quantum gates, which degrade circuit fidelity. As a result, optimizing quantum circuits is essential for achieving useful results.  
-This project explores the combination of two circuit optimization frameworks — **QuCLEAR** and **Dynamic ADAPT-QAOA** — demonstrates their individual benefits, mathematically proves that their combination yields more optimized circuits, and evaluates performance improvements on a 5-node example problem.
+Quantum computing holds great promise for addressing practical challenges. However, current quantum devices suffer from noisy quantum gates, which degrade circuit fidelity. As a result, optimizing quantum circuits is essential for achieving useful results. This project explores the combination of two circuit optimization frameworks — **QuCLEAR** and **Dynamic ADAPT-QAOA** — demonstrates their individual benefits, mathematically proves that their combination yields more optimized circuits, and evaluates performance improvements on a 5-node example problem.
 
 <!-- Poster images -->
-![Argonne Science Poster – Page 1](ArgonneSciencePoster_page1.jpg){ width=600px }
+(ArgonneSciencePoster_page1.jpg){ width=600px }
 
----
+##### OQI Presentation
 
-### OQI Presentation
-
-_Coming soon:_  
-- Add a photo of the slide presentation  
+- (Katie Harrison- OQI Presentation.pptx) 
 - Add link to `.pptx`  
 
 ---
-
-### Tips for Success  
-
-Click below to open the full presentation:
-
-- [Tips for Success — BNL Presentation (PDF)](BNL Presentation 07.09.25 (1).pdf)
 
 
 <!--
@@ -75,7 +65,12 @@ Click below to open the full presentation:
 
 Recipient of the **NSF Graduate Research Fellowship (GRFP), 2025**.
 
-### Research Plan PDF  
 - [GRFP Research Proposal (PDF)](Kaytlin Harrison GRFP Research Proposal.pdf)
+
+##### Tips for Success  
+
+Click below to open the full presentation:
+
+- [Tips for Success — BNL Presentation (PDF)](BNL Presentation 07.09.25 (1).pdf)
 
 
