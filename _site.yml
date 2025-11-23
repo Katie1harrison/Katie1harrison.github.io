@@ -7,7 +7,7 @@ navbar:
     - text: "About Me"
       href: index.html
     - text: "Presentations and Papers"
-      href: index_p_p.html
+      href: Research.html
     - text: "Resume"
       href: "Kaytlin_Harrison_Resume.pdf"
 
