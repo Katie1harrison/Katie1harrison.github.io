@@ -38,7 +38,7 @@ output: html_document
 
 ---
 
-##### Argonne Science Poster (2024) Abstract 
+### Argonne Science Poster (2024) Abstract 
 
 Quantum computing holds great promise for addressing practical challenges. However, current quantum devices suffer from noisy quantum gates, which degrade circuit fidelity. As a result, optimizing quantum circuits is essential for achieving useful results. This project explores the combination of two circuit optimization frameworks — **QuCLEAR** and **Dynamic ADAPT-QAOA** — demonstrates their individual benefits, mathematically proves that their combination yields more optimized circuits, and evaluates performance improvements on a 5-node example problem.
 
@@ -46,10 +46,11 @@ Quantum computing holds great promise for addressing practical challenges. Howev
 ![SULI Research Intern CELS Division](ArgonneSciencePoster_page1.jpg){ width=600px }
 
 
-##### OQI Presentation
+### OQI Presentation
 
-- (Katie Harrison- OQI Presentation.pptx) 
-- Add link to `.pptx`  
+Focused on modeling the entanglement of neutrinos using quantum algorithms on near-term noisy quantum computers starting with simulations on Qiskit, and moving on to cloud quantum computers and pulse level systems
+
+- [OQI Presentation](Katie Harrison- OQI Presentation.pptx)
 
 ---
 
@@ -66,12 +67,12 @@ Quantum computing holds great promise for addressing practical challenges. Howev
 
 Recipient of the **NSF Graduate Research Fellowship (GRFP), 2025**.
 
-- [GRFP Research Proposal (PDF)](Kaytlin Harrison GRFP Research Proposal.pdf)
+- [GRFP Research Proposal](Kaytlin Harrison GRFP Research Proposal.pdf)
 
-##### Tips for Success  
+### Thoughts on success  
 
 Click below to open the full presentation:
 
-- [Tips for Success — BNL Presentation (PDF)](BNL Presentation 07.09.25 (1).pdf)
+- [Invited class speaker](BNL Presentation 07.09.25 (1).pdf)
 
 
