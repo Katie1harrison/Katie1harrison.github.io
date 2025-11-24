@@ -50,7 +50,7 @@ Quantum computing holds great promise for addressing practical challenges. Howev
 
 Focused on modeling the entanglement of neutrinos using quantum algorithms on near-term noisy quantum computers starting with simulations on Qiskit, and moving on to cloud quantum computers and pulse level systems
 
-- [OQI Presentation](Katie Harrison- OQI Presentation.pptx)
+- [OQI Presentation](OQI_presentation.pptx)
 
 ---
 
@@ -67,12 +67,12 @@ Focused on modeling the entanglement of neutrinos using quantum algorithms on ne
 
 Recipient of the **NSF Graduate Research Fellowship (GRFP), 2025**.
 
-- [GRFP Research Proposal](Kaytlin Harrison GRFP Research Proposal.pdf)
+- [GRFP Research Proposal](GRFP_research_proposal.pdf)
 
 ### Thoughts on success  
 
 Click below to open the full presentation:
 
-- [Invited class speaker](BNL Presentation 07.09.25 (1).pdf)
+- [My approach](success.pptx)
 
 
