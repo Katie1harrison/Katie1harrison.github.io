@@ -38,17 +38,17 @@ output: html_document
 
 ---
 
-### Argonne Science Poster (2024) Abstract 
+### Argonne Science Poster 
 
 Quantum computing holds great promise for addressing practical challenges. However, current quantum devices suffer from noisy quantum gates, which degrade circuit fidelity. As a result, optimizing quantum circuits is essential for achieving useful results. This project explores the combination of two circuit optimization frameworks — **QuCLEAR** and **Dynamic ADAPT-QAOA** — demonstrates their individual benefits, mathematically proves that their combination yields more optimized circuits, and evaluates performance improvements on a 5-node example problem.
 
 <!-- Poster images -->
-![SULI Research Intern CELS Division](ArgonneSciencePoster_page1.jpg){ width=600px }
+![CELS Division](ArgonneSciencePoster_page1.jpg){ width=600px }
 
 
 ### OQI Presentation
 
-Focused on modeling the entanglement of neutrinos using quantum algorithms on near-term noisy quantum computers starting with simulations on Qiskit, and moving on to cloud quantum computers and pulse level systems
+Focused on modeling the entanglement of neutrinos using quantum algorithms on near-term noisy quantum computers starting using both simulations on Qiskit, and pulse level quantum systems
 
 - [OQI Presentation](OQI_presentation.pdf)
 
