@@ -50,7 +50,7 @@ Quantum computing holds great promise for addressing practical challenges. Howev
 
 Focused on modeling the entanglement of neutrinos using quantum algorithms on near-term noisy quantum computers starting with simulations on Qiskit, and moving on to cloud quantum computers and pulse level systems
 
-- [OQI Presentation](OQI_presentation.pptx)
+- [OQI Presentation](OQI_presentation.pdf)
 
 ---
 
@@ -73,6 +73,6 @@ Recipient of the **NSF Graduate Research Fellowship (GRFP), 2025**.
 
 Click below to open the full presentation:
 
-- [My approach](success.pptx)
+- [My approach](success.pdf)
 
 
